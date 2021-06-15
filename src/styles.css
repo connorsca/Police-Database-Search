@@ -1,0 +1,13 @@
+/* You can add global styles to this file, and also import other style files */
+hr {
+  background-color: blue;
+  height: 1px;
+}
+
+button.btn.btn-primary {
+  margin: 10px 0px;
+}
+
+input.form-control {
+  margin: 10px 0px;
+}

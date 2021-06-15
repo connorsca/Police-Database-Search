@@ -1,0 +1,4 @@
+li:nth-child(even) {
+  background: rgb(163, 163, 238);
+  color: black;
+}
